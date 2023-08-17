@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Adepoju Oluwatobi",
 	"description": "My first backend course",
+	"keywords": [ "freecodecamp", "backend", "course" ],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
