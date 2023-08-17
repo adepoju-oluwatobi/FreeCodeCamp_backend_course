@@ -4,6 +4,7 @@
 	"description": "My first backend course",
 	"keywords": [ "freecodecamp", "backend", "course" ],
 	"license": "do not copy",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
