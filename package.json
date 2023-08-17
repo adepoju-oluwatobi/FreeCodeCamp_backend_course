@@ -3,6 +3,7 @@
 	"author": "Adepoju Oluwatobi",
 	"description": "My first backend course",
 	"keywords": [ "freecodecamp", "backend", "course" ],
+	"license": "do not copy",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
